@@ -1,2 +1,2 @@
-A language for movement. See [sublimelang.com](sublimelang.com) for more details.
+[A language for movement](https://sublimelang.com).
 
