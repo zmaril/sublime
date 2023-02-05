@@ -1,0 +1,39 @@
+
+tree sitter
+
+design 
+
+convert pages 
+Get a better favicon 
+
+- Sublime
+    - Motivation 
+    - Specification 
+    - Design
+    - Movement editor 
+    - Future
+        - Book
+        - Website 
+        - Database 
+
+Motivation
+Usage
+Examples
+Design 
+Specification 
+
+
+Say where the body is in relation to itself
+
+Say where the body is in relation to others 
+
+Laban notation 
+
+
+Aspects 
+Visulaization 
+Diagrammers 
+
+Grammar checkers 
+
+Notation as a school of thought 
