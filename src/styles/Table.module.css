@@ -1,0 +1,52 @@
+.sequence_table { 
+  border-collapse:collapse;
+}
+
+.sequence_table > thead > tr
+{
+  border: 1px solid black;
+  padding: 0;
+}
+
+.sequence_table > thead > tr > th
+{
+  border: 1px solid black;
+  padding: 0;
+}
+
+.sequence_table > tbody > tr
+{
+  border: 1px solid black;
+  padding: 0;
+}
+
+.sequence_table > tbody > tr > td
+{
+  border: 1px solid black;
+  padding: 0px;
+}
+
+.beat {
+  width: 50px;
+  text-align: center !important;
+  margin: 0px;
+  padding: 0px;
+}
+
+.leaderlabel { 
+  text-align: left;
+  margin: 0px;
+  padding: 0px;
+  width:5px;
+}
+
+.followerlabel { 
+  text-align: right;
+  margin: 0px;
+  padding: 0px;
+  width:5px;
+}
+
+.header {
+  text-align: center !important;
+}

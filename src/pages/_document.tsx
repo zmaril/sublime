@@ -10,7 +10,6 @@ export default class _Document extends Document {
     return (
       <Html>
         <Head>
-          <title>Sublime - a language for movement</title>
           <meta
             name="description"
             content="Sublime - a language for movement"

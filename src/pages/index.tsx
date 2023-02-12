@@ -43,6 +43,9 @@ export default function Home() {
           <h3 style={{color: "blue"}}>
              Create something that visualizes the movement, d3 or three js 
           </h3>
+          <h3 style={{color: "blue"}}>
+            Revisit tiptap when it actually works again <a href="https://github.com/ueberdosis/tiptap/issues/3694"> issue</a>.
+          </h3>
         </div>
         <Footer />
       </main>
