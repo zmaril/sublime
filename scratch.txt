@@ -37,3 +37,6 @@ Diagrammers
 Grammar checkers 
 
 Notation as a school of thought 
+
+https://tree-sitter.github.io/tree-sitter/
+https://tree-sitter.github.io/tree-sitter/creating-parsers
