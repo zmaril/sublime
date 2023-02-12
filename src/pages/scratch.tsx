@@ -7,6 +7,7 @@ import Footer from "../components/footer";
 import { Table } from "@mantine/core";
 const inter = Inter({ subsets: ["latin"] });
 
+// stick a fourth column in as svg 
 function defaultBody() {
   return { upper: "cool", torso: "cool", lower: "cool" };
 }
